@@ -17,5 +17,4 @@ MADE BY TNGAMERK1
   appId: "1:539760943359:web:95ed8116b6c7589f8decca",
   
   measurementId: "G-W1MJM0TMP9
-
-# Thanks To You
+#
