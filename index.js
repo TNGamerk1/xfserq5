@@ -3,12 +3,12 @@
 window.onload = function() {
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "",
-    authDomain: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
+    apiKey: "AIzaSyBRMgZp9w9x6kO5NKDELkIzkkXpiINBb_c",
+    authDomain: "grand-voltage-385309.firebaseapp.com",
+    projectId: "grand-voltage-385309",
+    storageBucket: "grand-voltage-385309.appspot.com",
+    messagingSenderId: "539760943359",
+    appId: "1:539760943359:web:95ed8116b6c7589f8decca"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
