@@ -5,4 +5,4 @@ MADE BY TNGAMERK1
 
 
 
-# Thanksn To You
+# Thanks To You
